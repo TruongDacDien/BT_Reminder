@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+# Test Data
+
+Account: Admin
+
+Password: 123456
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
